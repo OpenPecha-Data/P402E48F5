@@ -1,0 +1,24 @@
+id: P402E48F5
+initial_creation_type: input
+source_metadata:
+  title: Kagyé Series
+  language: bo
+  description: 'Texts related to the Kagyé (bka’ brgyad), the Eight Command Deities
+    or Eight Herukas:'
+  volume:
+    837178cffe8640c1819a7f94481b1db5:
+      title: Daily Practice of Kagyé
+      parent: Sādhanas
+    3f1af25295764115b711a876c4ae1e14:
+      title: The Essential Activity Manual for the Awesome Ones’ Assembly, the Heart
+        Practice of Vidyādharas, from the Heart Essence of the Vast Expanse
+      parent: Sādhanas
+    cf0dbc253de14442b157bce4d3bbed37:
+      title: 'The Single Mudrā: A Daily Practice for the Awesome Ones’ Assembly (Palchen
+        Düpa), the Heart Practice of the Awareness-Holders'
+      parent: Sādhanas
+    965c334824cb416ba8c810554da9d722:
+      title: Awesome Ones’ Assembly (Palchen Düpa), the Heart Practice of the Awareness-Holders
+      parent: Sādhanas
+created_at: '2022-03-01T04:01:53.764511'
+last_modified_at: '2022-03-01T04:01:53.764514'
